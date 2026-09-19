@@ -197,12 +197,12 @@ code{
 
 /*Font sizes*/
 @media (max-width:750px){
- .fs-900{font-size:var(--fs-900);}
-.fs-800{font-size:var(--fs-800);} 
-}
-@media (min-width:751px){
  .fs-900{font-size:var(--fs-600);}
 .fs-800{font-size:var(--fs-500);} 
+}
+@media (min-width:751px){
+ .fs-900{font-size:var(--fs-900);}
+.fs-800{font-size:var(--fs-800);} 
 }
 /*.fs-900{font-size:var(--fs-900);}
 .fs-800{font-size:var(--fs-800);}*/
