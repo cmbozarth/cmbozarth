@@ -197,8 +197,8 @@ code{
 
 /*Font sizes*/
 @media (max-width:750px){
- .fs-900{font-size:var(--fs-600);}
-.fs-800{font-size:var(--fs-500);} 
+ .fs-900{font-size:var(--fs-700);}
+.fs-800{font-size:var(--fs-600);} 
 }
 @media (min-width:751px){
  .fs-900{font-size:var(--fs-900);}
