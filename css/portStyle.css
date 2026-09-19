@@ -449,6 +449,9 @@ nav{
   font-size: var(--fs-300);
   margin-bottom:30px;
 }
+.rounded-edge{
+  border-radius:10px;
+}
 
 /*Part 1: PortHead*/
 .portHead{
